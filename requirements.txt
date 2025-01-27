@@ -1,0 +1,5 @@
+streamlit
+web3
+eth-defi
+types-streamlit
+types-web3

@@ -1,0 +1,10 @@
+[project]
+name = "error-message-fetcher"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "streamlit>=1.41.1",
+    "web3-ethereum-defi>=0.26.1",
+]
